@@ -3,7 +3,7 @@
 
     <groupId>com.cvent</groupId>
     <artifactId>code-quality</artifactId>
-    <version>1.14</version>
+    <version>1.15-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>code-quality</name>
@@ -34,8 +34,8 @@
     </developers>
 
     <scm>
-        <developerConnection>scm:git:ssh://git@github.com:cvent/code-quality.git</developerConnection>
-        <tag>code-quality-1.14</tag>
+        <developerConnection>scm:git:git@github.com:cvent/code-quality.git</developerConnection>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
