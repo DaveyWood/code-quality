@@ -3,7 +3,7 @@
 
     <groupId>com.cvent</groupId>
     <artifactId>code-quality</artifactId>
-    <version>1.14-SNAPSHOT</version>
+    <version>1.14</version>
     <packaging>jar</packaging>
 
     <name>code-quality</name>
