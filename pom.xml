@@ -34,7 +34,7 @@
     </developers>
 
     <scm>
-        <developerConnection>scm:git:ssh://git@stash:7999/com/code-quality.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com:cvent/code-quality.git</developerConnection>
         <tag>code-quality-1.14</tag>
     </scm>
 
@@ -42,7 +42,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
-    
+
     <build>
         <plugins>
             <plugin>
@@ -55,7 +55,7 @@
                     <releaseProfiles>release</releaseProfiles>
                     <goals>deploy</goals>
                 </configuration>
-            </plugin>            
+            </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-gpg-plugin</artifactId>
